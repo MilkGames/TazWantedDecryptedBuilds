@@ -1,0 +1,114 @@
+Yes	s
+No	s
+Ok	s
+Cancel	s
+@(cross)Ok @(triangle)Cancel	s
+On	s
+Off	s
+@(cross)Set music volume	s
+@(title)Music volume:@(end title)	s
+@(cross)Set sound FX volume	s
+@(title)Sound FX volume:@(end title)	s
+@(cross)Toggle pad vibration	s
+@(title)Pad vibration:@(end title)	s
+@(title)Adjust Screen Position	s
+@(cross)OK, @(triangle)Cancel	s
+@(cross)Choose multiplayer game	s
+@(cross)Choose slot 1	s
+@(cross)Choose slot 2	s
+@(cross)Choose slot 3	s
+@(temp)TODO: show stats for this save@(end temp)\n@(cross)Start game	s
+@(title)Game type:@(end title)	s
+Versus	s
+Boss	s
+@(title)Versus Games@(end title)	s
+@(title)Boss Games@(end title)	s
+None	s
+Digital Watch	s
+Turbo	s
+Slow-Mo	s
+Invincibility	s
+Stereoscopic	s
+Pachyderm Pong	s
+Pinboing People	s
+Bomber Sam	s
+Daffy Docks	s
+Tasmania	s
+Finale	s
+@(title)Player 1 choose side:@(end title)	s
+Taz	s
+Enemy	s
+@(disabled)Mail Box Madness@(end disabled)	s
+@(disabled)Taz Top Tournament@(end disabled)	s
+@(disabled)Hampered Hampers@(end disabled)	s
+@(disabled)Object of Obsession@(end disabled)	s
+@(disabled)Taz Tracker Tag@(end disabled)	s
+@(disabled)Normal@(end disabled)	s
+Race	s
+Time Attack	s
+Destruct / Collect	s
+Tournament	s
+@(disabled)Destruction Diner@(end disabled)	s
+@(cross)Retry @(triangle)Cancel	s
+Checking...	s
+Please insert a memory card into slot 1.	s
+The memory card in slot 1 doesn't seem to be formatted for PlayStation 2.\nWhat would you like to do?	s
+@(cross)Retry @(circle)Format @(triangle)Cancel	s
+Formatting card...	s
+Couldn't format the memory card in slot 1.\nWould you like to try again?	s
+There's not enough space on the memory card in slot 1 to save.\nWhat would you like to do?	s
+Please choose a file to delete:	s
+Are you sure you want to delete this?	s
+@(cross)Retry @(circle)Make space @(triangle)Cancel	s
+@(cross)Delete @(triangle)back	s
+@(cross)Delete!! @(triangle)Cancel	s
+Saving...	s
+Saved!	s
+Save failed.	s
+The file couldn't be found.	s
+Loading...	s
+Loaded!	s
+Canceled	s
+Load failed.	s
+http://www.BlitzGames.com	s
+Quiet Please	s
+Taz: Wanted	s
+Please do not touch the exhibits	s
+My other computer is a PS2	s
+OUT OF ORDER	s
+All breakages must be paid for	s
+To access the Supreme Gullibility cheat: stand in the toilet cubicle and press @(d left) and @(d right) together	s
+ACME SCREEN SAVER	s
+1	s
+2	s
+3	s
+4	s
+5	s
+GET READY...	s
+GO!	s
+Checkpoint!	s
+PACHYDERMUS PONGUS\n(Elephant Pong)	s
+GOAL!	s
+OOPS!	s
+YOU WIN!	s
+YOU LOSE!	s
+@(cross)Try again @(triangle)Quit	s
+Welcome to Sam Francisco's greatest museum, look but don't touch.	s
+Take time to reflect on our luxurious facilitateys.	s
+You'll find some of our exhibits most illuminatin'.	s
+Look closely it's reeeal chocolate inside.	s
+Come look at our crackin' paintin's.	s
+This museum is protected by state-o'-the-art security systems, so don't go a-wanderin' off the trail.	s
+Don't forget we have a vacancy for a cleaner.	s
+Poo-wee modern art stinks!\nThough some folks'd call it 'inaccessible'.	s
+Hot diggity dog, that's a mouthful.	s
+Press @(cross) To Continue.	s
+HELP!!! HELP!!! We are being held prisoner in a banana factory!	s
+@(d left) Map @(d right)	s
+@(d left) Options @(d right)	s
+@(d left) Level @(d right)	s
+@(d left) Stats @(d right)	s
+Return To Hub	s
+Restart Level	s
+Exit Game	s
+Replay Intro	s
